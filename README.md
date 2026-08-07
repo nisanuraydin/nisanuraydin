@@ -1,4 +1,4 @@
-# Hi, I'm Nisanur 👋
+# Hi, I'm Nisa 👋
 
 Computer Engineering student focused on **Data Science, Computer Vision, and Industrial AI.**  
 Building **data-driven systems** with Python and machine learning.
