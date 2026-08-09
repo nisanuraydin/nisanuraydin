@@ -10,5 +10,5 @@ Building **data-driven systems** with Python and machine learning.
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nisanuraydin/nisanuraydin/output/pacman-contribution-graph-dark.svg" alt="Pac-Man contribution graph"/>
+  <img src="https://raw.githubusercontent.com/nisanuraydin/nisanuraydin/gh-pages/pacman-contribution-graph-dark.svg" alt="Pac-Man contribution graph"/>
 </p>
